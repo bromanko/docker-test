@@ -1,0 +1,22 @@
+{
+  "name": "docker-test",
+  "version": "0.0.0",
+  "description": "Just a test of Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bromanko/docker-test.git"
+  },
+  "author": "Brian Romanko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bromanko/docker-test/issues"
+  },
+  "homepage": "https://github.com/bromanko/docker-test",
+  "dependencies": {
+    "express": "^4.4.2"
+  }
+}
